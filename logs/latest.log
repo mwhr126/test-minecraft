@@ -1,0 +1,167 @@
+[15:14:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239; Oracle Corporation null) on Mac OS X 14.3.1 (x86_64)
+[15:14:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-122-master@4430e96 (2024-10-12T21:18:42Z) for Minecraft 1.21.1
+[15:14:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:14:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[15:14:43] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - plugin-sample (1.0-SNAPSHOT)
+[15:14:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:14:53] [ServerMain/INFO]: Loaded 1290 recipes
+[15:14:54] [ServerMain/INFO]: Loaded 1399 advancements
+[15:14:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:14:54] [Server thread/INFO]: Loading properties
+[15:14:54] [Server thread/INFO]: This server is running Paper version 1.21.1-122-master@4430e96 (2024-10-12T21:18:42Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[15:14:55] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:14:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:14:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:14:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[15:14:57] [Server thread/INFO]: Default game type: SURVIVAL
+[15:14:57] [Server thread/INFO]: Generating keypair
+[15:14:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:14:57] [Server thread/INFO]: Using default channel type
+[15:14:57] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:14:57] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:14:57] [Server thread/INFO]: [plugin-sample] Loading server plugin plugin-sample v1.0-SNAPSHOT
+[15:14:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:14:57] [Server thread/INFO]: Preparing level "world"
+[15:14:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:00] [Server thread/INFO]: Time elapsed: 1637 ms
+[15:15:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:15:00] [Server thread/INFO]: Time elapsed: 166 ms
+[15:15:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:15:00] [Server thread/INFO]: Time elapsed: 135 ms
+[15:15:00] [Server thread/INFO]: [plugin-sample] Enabling plugin-sample v1.0-SNAPSHOT
+[15:15:00] [Server thread/INFO]: [spark] Starting background profiler...
+[15:15:00] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (macosx/x86_64), so the built-in Java engine will be used instead.
+[15:15:00] [Server thread/INFO]: Done preparing level "world" (2.871s)
+[15:15:00] [Server thread/INFO]: Running delayed init tasks
+[15:15:00] [Server thread/INFO]: Done (23.043s)! For help, type "help"
+[15:15:00] [Server thread/INFO]: Timings Reset
+[15:15:21] [User Authenticator #0/INFO]: UUID of player HRMW77 is c1be0b8d-3232-4434-80fc-70b0616beb6a
+[15:15:22] [Server thread/INFO]: HRMW77 joined the game
+[15:15:23] [Server thread/INFO]: HRMW77[/127.0.0.1:54884] logged in with entity id 86 at ([world]-55.708468586162205, 63.0, -48.88937915956427)
+[15:15:48] [Server thread/INFO]: 2
+[15:15:48] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 2
+[15:15:48] [Server thread/WARN]: Nag author(s): '[]' of 'plugin-sample v1.0-SNAPSHOT' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:15:49] [Server thread/INFO]: 3
+[15:15:49] [Server thread/INFO]: [plugin-sample] [STDOUT] 2 は素数です
+[15:15:49] [Server thread/INFO]: [plugin-sample] [STDOUT] 2 は素数です
+[15:15:49] [Server thread/INFO]: [plugin-sample] [STDOUT] 2 は素数です
+[15:15:49] [Server thread/INFO]: [plugin-sample] [STDOUT] 2 は素数です
+[15:15:49] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 3
+[15:15:53] [Server thread/INFO]: 5
+[15:15:53] [Server thread/INFO]: [plugin-sample] [STDOUT] 3 は素数です
+[15:15:53] [Server thread/INFO]: [plugin-sample] [STDOUT] 3 は素数です
+[15:15:53] [Server thread/INFO]: [plugin-sample] [STDOUT] 3 は素数です
+[15:15:53] [Server thread/INFO]: [plugin-sample] [STDOUT] 3 は素数です
+[15:15:53] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 4
+[15:15:54] [Server thread/INFO]: 5
+[15:15:54] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 5
+[15:15:58] [Server thread/INFO]: 7
+[15:15:58] [Server thread/INFO]: [plugin-sample] [STDOUT] 5 は素数です
+[15:15:58] [Server thread/INFO]: [plugin-sample] [STDOUT] 5 は素数です
+[15:15:58] [Server thread/INFO]: [plugin-sample] [STDOUT] 5 は素数です
+[15:15:58] [Server thread/INFO]: [plugin-sample] [STDOUT] 5 は素数です
+[15:15:58] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 6
+[15:15:59] [Server thread/INFO]: 7
+[15:15:59] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 7
+[15:16:01] [Server thread/INFO]: 11
+[15:16:01] [Server thread/INFO]: [plugin-sample] [STDOUT] 7 は素数です
+[15:16:01] [Server thread/INFO]: [plugin-sample] [STDOUT] 7 は素数です
+[15:16:01] [Server thread/INFO]: [plugin-sample] [STDOUT] 7 は素数です
+[15:16:01] [Server thread/INFO]: [plugin-sample] [STDOUT] 7 は素数です
+[15:16:01] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 8
+[15:16:01] [Server thread/INFO]: 11
+[15:16:01] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 9
+[15:16:11] [Server thread/INFO]: 11
+[15:16:11] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 10
+[15:16:12] [Server thread/INFO]: 11
+[15:16:12] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 11
+[15:16:15] [Server thread/INFO]: 13
+[15:16:15] [Server thread/INFO]: [plugin-sample] [STDOUT] 11 は素数です
+[15:16:15] [Server thread/INFO]: [plugin-sample] [STDOUT] 11 は素数です
+[15:16:15] [Server thread/INFO]: [plugin-sample] [STDOUT] 11 は素数です
+[15:16:15] [Server thread/INFO]: [plugin-sample] [STDOUT] 11 は素数です
+[15:16:15] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 12
+[15:16:15] [Server thread/INFO]: 13
+[15:16:15] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 13
+[15:16:21] [Server thread/INFO]: 17
+[15:16:21] [Server thread/INFO]: [plugin-sample] [STDOUT] 13 は素数です
+[15:16:21] [Server thread/INFO]: [plugin-sample] [STDOUT] 13 は素数です
+[15:16:21] [Server thread/INFO]: [plugin-sample] [STDOUT] 13 は素数です
+[15:16:21] [Server thread/INFO]: [plugin-sample] [STDOUT] 13 は素数です
+[15:16:21] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 14
+[15:16:21] [Server thread/INFO]: 17
+[15:16:21] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 15
+[15:16:25] [Server thread/INFO]: 17
+[15:16:25] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 16
+[15:16:25] [Server thread/INFO]: 17
+[15:16:25] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 17
+[15:16:26] [Server thread/INFO]: 19
+[15:16:26] [Server thread/INFO]: [plugin-sample] [STDOUT] 17 は素数です
+[15:16:26] [Server thread/INFO]: [plugin-sample] [STDOUT] 17 は素数です
+[15:16:26] [Server thread/INFO]: [plugin-sample] [STDOUT] 17 は素数です
+[15:16:26] [Server thread/INFO]: [plugin-sample] [STDOUT] 17 は素数です
+[15:16:26] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 18
+[15:16:27] [Server thread/INFO]: 19
+[15:16:27] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 19
+[15:16:46] [Server thread/INFO]: 23
+[15:16:46] [Server thread/INFO]: [plugin-sample] [STDOUT] 19 は素数です
+[15:16:46] [Server thread/INFO]: [plugin-sample] [STDOUT] 19 は素数です
+[15:16:46] [Server thread/INFO]: [plugin-sample] [STDOUT] 19 は素数です
+[15:16:46] [Server thread/INFO]: [plugin-sample] [STDOUT] 19 は素数です
+[15:16:46] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 20
+[15:16:46] [Server thread/INFO]: 23
+[15:16:46] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 21
+[15:17:03] [Server thread/INFO]: 23
+[15:17:03] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 22
+[15:17:04] [Server thread/INFO]: 23
+[15:17:04] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 23
+[15:17:05] [Server thread/INFO]: 29
+[15:17:05] [Server thread/INFO]: [plugin-sample] [STDOUT] 23 は素数です
+[15:17:05] [Server thread/INFO]: [plugin-sample] [STDOUT] 23 は素数です
+[15:17:05] [Server thread/INFO]: [plugin-sample] [STDOUT] 23 は素数です
+[15:17:05] [Server thread/INFO]: [plugin-sample] [STDOUT] 23 は素数です
+[15:17:05] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 24
+[15:17:05] [Server thread/INFO]: 29
+[15:17:05] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 25
+[15:17:15] [Server thread/INFO]: 29
+[15:17:15] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 26
+[15:17:16] [Server thread/INFO]: 29
+[15:17:16] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 27
+[15:17:17] [Server thread/INFO]: 29
+[15:17:17] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 28
+[15:17:17] [Server thread/INFO]: 29
+[15:17:17] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 29
+[15:17:18] [Server thread/INFO]: 31
+[15:17:18] [Server thread/INFO]: [plugin-sample] [STDOUT] 29 は素数です
+[15:17:18] [Server thread/INFO]: [plugin-sample] [STDOUT] 29 は素数です
+[15:17:18] [Server thread/INFO]: [plugin-sample] [STDOUT] 29 は素数です
+[15:17:18] [Server thread/INFO]: [plugin-sample] [STDOUT] 29 は素数です
+[15:17:18] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 30
+[15:17:19] [Server thread/INFO]: 31
+[15:17:19] [Server thread/INFO]: [plugin-sample] [STDOUT] val を 1 増やした結果: 31
+[15:37:19] [Server thread/INFO]: HRMW77 lost connection: Disconnected
+[15:37:19] [Server thread/INFO]: HRMW77 left the game
+[18:50:08] [Server thread/INFO]: Stopping server
+[18:50:08] [Server thread/INFO]: [plugin-sample] Disabling plugin-sample v1.0-SNAPSHOT
+[18:50:08] [Server thread/INFO]: Saving players
+[18:50:08] [Server thread/INFO]: Saving worlds
+[18:50:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 156 entity chunks, 0 poi chunks in world 'world' in 0.19s
+[18:50:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[18:50:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:50:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.12s
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:50:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
