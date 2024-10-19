@@ -1,36 +1,36 @@
-[17:24:49] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239; Oracle Corporation null) on Mac OS X 14.3.1 (x86_64)
-[17:24:49] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-122-master@4430e96 (2024-10-12T21:18:42Z) for Minecraft 1.21.1
-[17:24:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:24:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[17:24:51] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[18:17:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.5+9-LTS-239; Oracle Corporation null) on Mac OS X 14.3.1 (x86_64)
+[18:17:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-122-master@4430e96 (2024-10-12T21:18:42Z) for Minecraft 1.21.1
+[18:17:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:18:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[18:18:00] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - plugin-sample (1.0-SNAPSHOT)
-[17:24:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:24:59] [ServerMain/INFO]: Loaded 1290 recipes
-[17:24:59] [ServerMain/INFO]: Loaded 1399 advancements
-[17:24:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:24:59] [Server thread/INFO]: Loading properties
-[17:24:59] [Server thread/INFO]: This server is running Paper version 1.21.1-122-master@4430e96 (2024-10-12T21:18:42Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[17:25:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:25:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:25:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:25:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
-[17:25:02] [Server thread/INFO]: Default game type: SURVIVAL
-[17:25:02] [Server thread/INFO]: Generating keypair
-[17:25:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:25:02] [Server thread/INFO]: Using default channel type
-[17:25:02] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[17:25:02] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[17:25:02] [Server thread/INFO]: [plugin-sample] Loading server plugin plugin-sample v1.0-SNAPSHOT
-[17:25:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:25:02] [Server thread/INFO]: Preparing level "world"
-[17:25:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:25:04] [Server thread/INFO]: Time elapsed: 1317 ms
-[17:25:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:25:04] [Server thread/INFO]: Time elapsed: 132 ms
-[17:25:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:25:04] [Server thread/INFO]: Time elapsed: 86 ms
-[17:25:04] [Server thread/INFO]: [plugin-sample] Enabling plugin-sample v1.0-SNAPSHOT
-[17:25:04] [Server thread/ERROR]: Error occurred while enabling plugin-sample v1.0-SNAPSHOT (Is it up to date?)
+[18:18:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:18:10] [ServerMain/INFO]: Loaded 1290 recipes
+[18:18:10] [ServerMain/INFO]: Loaded 1399 advancements
+[18:18:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:18:11] [Server thread/INFO]: Loading properties
+[18:18:11] [Server thread/INFO]: This server is running Paper version 1.21.1-122-master@4430e96 (2024-10-12T21:18:42Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[18:18:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:18:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:18:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:18:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and population gen parallelism of 2 threads
+[18:18:13] [Server thread/INFO]: Default game type: SURVIVAL
+[18:18:13] [Server thread/INFO]: Generating keypair
+[18:18:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:18:13] [Server thread/INFO]: Using default channel type
+[18:18:13] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:18:13] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:18:14] [Server thread/INFO]: [plugin-sample] Loading server plugin plugin-sample v1.0-SNAPSHOT
+[18:18:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:18:14] [Server thread/INFO]: Preparing level "world"
+[18:18:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:18:16] [Server thread/INFO]: Time elapsed: 1329 ms
+[18:18:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:18:16] [Server thread/INFO]: Time elapsed: 158 ms
+[18:18:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:18:16] [Server thread/INFO]: Time elapsed: 100 ms
+[18:18:16] [Server thread/INFO]: [plugin-sample] Enabling plugin-sample v1.0-SNAPSHOT
+[18:18:16] [Server thread/ERROR]: Error occurred while enabling plugin-sample v1.0-SNAPSHOT (Is it up to date?)
 java.lang.NullPointerException: Cannot invoke "org.bukkit.command.PluginCommand.setExecutor(org.bukkit.command.CommandExecutor)" because the return value of "org.example.plugin.pluginsample.Main.getCommand(String)" is null
 	at plugin-sample-1.0-SNAPSHOT.jar/org.example.plugin.pluginsample.Main.onEnable(Main.java:39) ~[plugin-sample-1.0-SNAPSHOT.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
@@ -45,32 +45,32 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.command.PluginCommand.
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1214) ~[paper-1.21.1.jar:1.21.1-122-4430e96]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329) ~[paper-1.21.1.jar:1.21.1-122-4430e96]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[17:25:04] [Server thread/INFO]: [plugin-sample] Disabling plugin-sample v1.0-SNAPSHOT
-[17:25:04] [Server thread/INFO]: [spark] Starting background profiler...
-[17:25:04] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (macosx/x86_64), so the built-in Java engine will be used instead.
-[17:25:04] [Server thread/INFO]: Done preparing level "world" (2.340s)
-[17:25:04] [Server thread/INFO]: Running delayed init tasks
-[17:25:04] [Server thread/INFO]: Done (16.556s)! For help, type "help"
-[17:25:04] [Server thread/INFO]: Timings Reset
-[17:45:10] [Server thread/INFO]: Stopping server
-[17:45:10] [Server thread/INFO]: Saving players
-[17:45:10] [Server thread/INFO]: Saving worlds
-[17:45:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:45:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:45:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:45:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 30 entity chunks, 0 poi chunks in world 'world' in 0.15s
-[17:45:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.12s
-[17:45:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:45:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.14s
-[17:45:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:45:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:45:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:45:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:18:16] [Server thread/INFO]: [plugin-sample] Disabling plugin-sample v1.0-SNAPSHOT
+[18:18:16] [Server thread/INFO]: [spark] Starting background profiler...
+[18:18:16] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (macosx/x86_64), so the built-in Java engine will be used instead.
+[18:18:16] [Server thread/INFO]: Done preparing level "world" (2.433s)
+[18:18:16] [Server thread/INFO]: Running delayed init tasks
+[18:18:16] [Server thread/INFO]: Done (20.545s)! For help, type "help"
+[18:18:16] [Server thread/INFO]: Timings Reset
+[18:19:58] [Server thread/INFO]: Stopping server
+[18:19:58] [Server thread/INFO]: Saving players
+[18:19:58] [Server thread/INFO]: Saving worlds
+[18:19:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:19:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:19:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:19:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.54s
+[18:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.34s
+[18:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:19:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:20:00] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.36s
+[18:20:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:20:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:20:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:20:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
